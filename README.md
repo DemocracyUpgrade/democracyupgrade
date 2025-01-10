@@ -125,11 +125,11 @@ https://discord.gg/DNpH9tmg
 ## Support on Patreon
 
 🔗 Support on Patreon here:
-patreon.com/upgradedemocracy
+patreon.com/democracyupgrade
 
 ## Website
 
-🔗 UpDemlcracy.org
+🔗 UpDemocracy.org
 
 ## Determination of CODEOWNERS
 
