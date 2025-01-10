@@ -119,8 +119,17 @@ Explore research publications: Academic papers often describe novel AI-driven si
 
 ## Discord link
 
-Join the Discord here:
+🔗 Join the Discord here:
 https://discord.gg/DNpH9tmg
+
+## Support on Patreon
+
+🔗 Support on Patreon here:
+patreon.com/upgradedemocracy
+
+## Website
+
+🔗 UpDemlcracy.org
 
 ## Determination of CODEOWNERS
 
