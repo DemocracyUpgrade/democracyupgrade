@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 
 Lets build the AI-Powered App to Enable Direct Democracy!
 
+## Discord link
+
+🔗 Join the Discord here:
+https://discord.gg/DNpH9tmg
+
+## Support on Patreon
+
+🔗 Support on Patreon here:
+https://patreon.com/democracyupgrade
+
+## Website
+
+🔗 https://UpDemocracy.org
+
 ## Key Functionalities
 
 AI-Powered Legislative Breakdown: Complex legislation is fetched from online sources, uploaded into the app, and intelligently broken down into clear, concise, and manageable proposals, making them easier for citizens to understand and engage with.
@@ -116,20 +130,6 @@ To find the exact AI agent for your needs, you'd likely need to:
 Consult with experts: Researchers in fields like computational social science, policy analysis, or environmental modeling.
 Contact companies specializing in AI and simulation: Many consulting firms offer these services.
 Explore research publications: Academic papers often describe novel AI-driven simulation approaches.
-
-## Discord link
-
-🔗 Join the Discord here:
-https://discord.gg/DNpH9tmg
-
-## Support on Patreon
-
-🔗 Support on Patreon here:
-https://patreon.com/democracyupgrade
-
-## Website
-
-🔗 https://UpDemocracy.org
 
 ## Determination of CODEOWNERS
 
