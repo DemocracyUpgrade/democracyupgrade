@@ -116,3 +116,32 @@ To find the exact AI agent for your needs, you'd likely need to:
 Consult with experts: Researchers in fields like computational social science, policy analysis, or environmental modeling.
 Contact companies specializing in AI and simulation: Many consulting firms offer these services.
 Explore research publications: Academic papers often describe novel AI-driven simulation approaches.
+
+## Discord link
+
+Join the Discord here:
+https://discord.gg/DNpH9tmg
+
+## Determination of CODEOWNERS
+
+CODEOWNERS responsible for code reviews of any proposed mergers will be determined on the Discord channel #CODEOWNERS
+
+## App Suggestions
+
+Please submit app suggestions them on the Discord channel #app-suggestions
+
+## Agent Suggestions
+
+It's difficult to keep pace with the rapidly advancing nature of AI Agents that can be utilized to enhance development of this app. Please submmit agent suggestions and debate them on the Discord channel #agent-suggestions
+
+## Discord Channel Suggestions
+
+Please submit any proposed channels to the Discord channel #channel-suggestions
+
+## Monetization
+
+Suggest how we can monetize on this under the Discord channel #monetization
+
+## Influencer Utilization
+
+Suggest influencers / content creators to work with or request an affiliate partnership if you are a  influencer under the Discord channel #influencer-portal
